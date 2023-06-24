@@ -61,11 +61,7 @@ We would employ the Agile methodology for this project. We will hold weekly stat
 |---------------------|-----------|-------------------|---------------|----------------------|
 | Mahitha Avula       | MA        | Project Manager   | Team Lead     | +1 469-674-4951     |
 | Sri Vyshnavi Kshatriya | VK     | Scrum Master      | Team Member   | +1 660-528-5416     |
-| Tejo Lakshmi Tata   | TT        | UI Developer      | Team Member   | +1 660-528-5081     |
-| Bhavana Malli       | BM        | Database Admin    | Team Member   | +1 660-528-5198     |
-| Dheeraj Krishna Mekala | DM     | Backend Developer | Team Member   | +1 660-528-1929     |
-| Kovidh Kurra        | KK        | DevOps Engineer   | Team Member   | +1 660-528-5218     |
-| Narayana Potla      | NP        | Business Analyst  | Team Member   | +1 315-225-3604     |
+
 
 
 # Stakeholder Register for Farm Shop
@@ -74,12 +70,8 @@ We would employ the Agile methodology for this project. We will hold weekly stat
 | Name                | Position       | Internal/External | Project Role       | Contact Information  | Description |
 |---------------------|----------------|-------------------|--------------------|----------------------|-------------|
 | Mahitha Avula       | Team Lead      | Internal          | Project Manager    | Phone: 469-674-4951  | A project manager is in charge of motivating a group of experts to finish tasks ahead of schedule in order to support company goals. They are responsible for choosing the members of the project team and creating or modifying project schedules to meet deadlines. |
-| Sri Vyshnavi Kshatriya | Team Member  | Internal          | Scrum Master       | Phone: 660-528-5416  | The Scrum Master is in charge of forming and onboarding project teams, integrating them into the company, and articulating a distinct product vision. The project team and external parties may communicate and exchange information more easily thanks to the Scrum Master. |
-| Tejo Lakshmi Tata   | Team Member    | Internal          | UI Developer       | Phone: 660-528-5081  | As a UI developer, the role is to design and develop user interfaces for digital products such as websites, web applications, mobile applications, and software. The primary focus is on creating visually appealing and user-friendly interfaces that enhance the user experience. |
-| Bhavana Malli       | Team Member    | Internal          | Database Admin     | Phone: 660-528-5198  | Database admins plan and build systems that store and protect a wide range of data, such as financial data and customer shipping records. They also make sure that only authorized people can access the data. |
-| Dheeraj Krishna Mekala | Team Member | Internal          | Backend Developer  | Phone: 660-528-1929  | As a backend developer, the primary responsibility is to build and maintain the server-side components of web applications and software systems. They work behind the scenes to ensure the smooth functioning, performance, and security of the application's core logic and data management. |
-| Kovidh Kurra        | Team Member    | Internal          | DevOps Engineer    | Phone: 660-528-5218  | As a DevOps engineer, the role is to bridge the gap between development and operations teams by focusing on the integration, automation, and continuous improvement of software development and deployment processes. The primary goal is to ensure efficient and reliable delivery of software applications while maintaining a high level of system performance, scalability, and stability. |
-| Narayana Potla      | Team Member    | Internal          | Business Analyst   | Phone: 315-225-3604  | A business analyst plays a crucial role in the success of a project by bridging the gap between business objectives and technology solutions. They are responsible for analyzing business processes, identifying areas for improvement, and proposing effective solutions to enhance efficiency, productivity, and profitability. |
+| Sri Vyshnavi Kshatriya | Team Member  | Internal          |Full stack developer    | Phone: 660-528-5416  | A full stack developer is a professional who possesses the skills and expertise to work on both the front-end and back-end aspects of web development.|
+
 
 
 
@@ -117,3 +109,9 @@ The Farm Shop project will follow a systematic and well-defined approach to ensu
 <b>Continuous Improvement and Growth:</b>
 
 Regularly assess customer feedback, market trends, and sales data to identify areas for improvement and refine the product offerings and customer experience.
+
+
+ 
+### References
+
+  - https://profcase.github.io/project-charter-template/#benefits
