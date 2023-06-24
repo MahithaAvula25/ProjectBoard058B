@@ -9,7 +9,7 @@ Farmstead Avengers  :  A farm shop is a specialized retail establishment that fo
    <strong>Project Tagline :   </strong>Shop From Anywhere<br>
    <strong>Team Name       :   </strong>Farmstead Avengers<br>
    <strong>Logo            : <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="Images/logo.PNG" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="images/logo.PNG" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
 
 ## Summary
 
