@@ -42,8 +42,10 @@
 | Mahitha Avula            | Project Manager   | 
 | Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
+<br>
 
 ### Project Charter
+
 This is the project charter for the Farm shop project. The objective of this undertaking is to develop and deliver a web-based application for Farm shop.
 It includes the  information about success criteria,Approach,Team members etc
 <br>
@@ -61,6 +63,7 @@ To view the detail budget  [Click Here](https://github.com/MahithaAvula25/Projec
 <img src="images/budget.png" alt="drawing" width="900" style="border-radius:0%" /> 
 
 Total Budget Required For This Project = $30,000
+
 <br>
 
 ### Gantt Chart
