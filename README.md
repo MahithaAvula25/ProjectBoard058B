@@ -69,8 +69,7 @@ To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
 
 
-
-## Summary
+### Summary
 <li>The project <span style="font-weight:bold"> Farm Shop </span> is an online website application that they would sell the seeds, chemicals required for Farmer.</li>
 <li>The customer would be able to login by creating the account and can view menu list and buy the required items by adding to the cart. </li>
 <li>Once the customer selects required items they will be redirected to checkout page.</li>
@@ -78,5 +77,3 @@ To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25
 <li>Customer can select the way of payment they are comfortable like we will be providing options like Credit/Debit card, Home Delivery and Pick up options.</li>
 <li>Once the user confirm the payment he/she will be provided the tracking status for the item that they have purchased.</li>
 
-
-<br>
