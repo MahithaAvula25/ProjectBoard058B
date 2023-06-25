@@ -11,7 +11,7 @@
 
 
     
- ##  Our Team
+## Our Team
 
 <img class='img-circle' src="images/MahithaAvula.jpeg" alt="drawing" width="100" style="border-radius:70%" />  <img class='img-circle' src="images/SriVyshnaviKshatriya.jpg" alt="drawing" width="100" style="border-radius:50%" /> &nbsp; 
               
@@ -20,6 +20,7 @@
 
 
   [Mahitha Avula](https://github.com/MahithaAvula25) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SriVyshnaviKshatriya](https://github.com/SriVyshnaviKshatriya)             &nbsp;&nbsp;&nbsp;&nbsp;     
+
 
  
 ## Participants
