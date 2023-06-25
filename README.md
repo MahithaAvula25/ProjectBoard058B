@@ -65,6 +65,11 @@ Total Budget Required For This Project = $30,000
 ### Gantt Chart
 A Gantt chart is a visual project management tool that illustrates the timeline of tasks and their dependencies. It provides a horizontal bar chart representation of project tasks, showing their start and end dates, durations, and overlaps. Gantt charts help project managers and team members visualize the project schedule, identify critical tasks, manage dependencies, allocate resources, and track progress. They enable efficient planning, scheduling, and monitoring of projects.
 
-<img src="WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
+<img src=" WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
 
-To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Budget)
+To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
+
+### Work Breakdown Structure (WBS)
+ A Work Breakdown Structure is a hierarchical decomposition of a project into smaller, more manageable work components. Each level of the WBS represents increasingly detailed components, from high-level phases to individual work packages. It provides a foundation for project planning, estimation, resource allocation, and project control.
+ 
+To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
