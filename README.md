@@ -57,6 +57,6 @@ It includes the  information about success criteria,Approach,Team members etc
 
 To view the detail budget  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Budget)
 
-<img src="images/budget.png" alt="drawing" width="550" style="border-radius:0%" /> 
+<img src="images/budget.png" alt="drawing" width="600" height ="400" style="border-radius:0%" /> 
 
 Total Budget Required For This Project = $30,000
