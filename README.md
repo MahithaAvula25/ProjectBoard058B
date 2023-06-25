@@ -1,5 +1,3 @@
-# ProjectBoard058B
-Farmstead Avengers  :  A farm shop is a specialized retail establishment that focuses on selling locally sourced and farm-fresh products.
 
 # Farm Shop
 
@@ -41,13 +39,13 @@ Farmstead Avengers  :  A farm shop is a specialized retail establishment that fo
 ## Participants
 |     Team Member          | Role              | 
  -------------             | :-------------:   |
-| Mahitha Avula            | Project Mangaer   | 
-| Sri Vyshnavi Kshatriya   | Scrum Master      | 
+| Mahitha Avula            | Project Manager   | 
+| Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
 
 ### Project Charter
 This is the project charter for the Farm shop project. The objective of this undertaking is to develop and deliver a web-based application for Farm shop.
-It includes the  information about scope,budget,schedule,team members etc
+It includes the  information about success criteria,Approach,Team members etc
 <br>
 **For detailed Information:** [click here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/project%20charter.md)
 
