@@ -50,12 +50,13 @@ It includes the  information about success criteria,Approach,Team members etc
 **For detailed Information:** [click here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/project%20charter.md)
 
 
+
 ### Budget
 * Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
 * It helps the stakeholders to know how much money is needed and when it is needed to complete the project.
 
 To view the detail budget  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Budget)
 
-<img src="images/budget.png" alt="drawing" width="550" style="border-radius:50%" /> 
+<img src="images/budget.png" alt="drawing" width="550" style="border-radius:0%" /> 
 
 Total Budget Required For This Project = $30,000
