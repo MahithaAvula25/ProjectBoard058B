@@ -10,7 +10,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="images/logo.PNG" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
 
 ## Summary
-
 <li>The project <span style="font-weight:bold"> Farm Shop </span> is an online website application that they would sell the seeds, chemicals required for Farmer.</li>
 <li>The customer would be able to login by creating the account and can view menu list and buy the required items by adding to the cart. </li>
 <li>Once the customer selects required items they will be redirected to checkout page.</li>
@@ -45,7 +44,7 @@
 <br>
 
 ### Project Charter
----
+
 
 This is the project charter for the Farm shop project. The objective of this undertaking is to develop and deliver a web-based application for Farm shop.
 It includes the  information about success criteria,Approach,Team members etc
@@ -56,7 +55,7 @@ For detailed Information: [click here](https://github.com/MahithaAvula25/Project
 <br>
 
 ### Budget
----
+
 * Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
 * It helps the stakeholders to know how much money is needed and when it is needed to complete the project.
 
@@ -69,7 +68,7 @@ Total Budget Required For This Project = $30,000
 
 
 ### Gantt Chart
----
+
 A Gantt chart is a visual project management tool that illustrates the timeline of tasks and their dependencies. It provides a horizontal bar chart representation of project tasks, showing their start and end dates, durations, and overlaps. Gantt charts help project managers and team members visualize the project schedule, identify critical tasks, manage dependencies, allocate resources, and track progress. They enable efficient planning, scheduling, and monitoring of projects.
 
 <img src=" WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
@@ -78,7 +77,7 @@ To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25
 <br>
 
 ### Work Breakdown Structure (WBS)
----
+
  A Work Breakdown Structure is a hierarchical decomposition of a project into smaller, more manageable work components. Each level of the WBS represents increasingly detailed components, from high-level phases to individual work packages. It provides a foundation for project planning, estimation, resource allocation, and project control.
 
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
