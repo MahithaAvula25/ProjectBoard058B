@@ -25,13 +25,8 @@
 
 
  
-## Participants
-|     Team Member          | Role              | 
- -------------             | :-------------:   |
-| Mahitha Avula            | Project Manager   | 
-| Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
-<br>
+
 
 
 ### Project Charter
@@ -42,7 +37,12 @@ It includes the  information about success criteria,Approach,Team members etc
 <br>
 For detailed Information: [click here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/project%20charter.md)
 
+## Participants
 
+|     Team Member          | Role              | 
+ -------------             | :-------------:   |
+| Mahitha Avula            | Project Manager   | 
+| Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
 ### Budget
 
