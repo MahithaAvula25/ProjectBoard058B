@@ -49,7 +49,6 @@ It includes the  information about success criteria,Approach,Team members etc
 For detailed Information: [click here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/project%20charter.md)
 
 
-<br>
 
 ### Budget
 
