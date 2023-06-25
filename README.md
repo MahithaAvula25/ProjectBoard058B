@@ -2,15 +2,16 @@
 # Farm Shop
 
 ## Our Project
-   <strong>Project Title   :   </strong> Farm Shop<br>
+<strong>Project Title   :   </strong> Farm Shop<br>
    <strong>Project Tagline :   </strong>Shop From Anywhere<br>
    <strong>Team Name       :   </strong>Farmstead Avengers<br>
    <strong>Logo            : <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="images/logo.PNG" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+   
 
 
     
-## Our Team
+ ##  Our Team
 
 <img class='img-circle' src="images/MahithaAvula.jpeg" alt="drawing" width="100" style="border-radius:70%" />  <img class='img-circle' src="images/SriVyshnaviKshatriya.jpg" alt="drawing" width="100" style="border-radius:50%" /> &nbsp; 
               
