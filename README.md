@@ -60,3 +60,11 @@ To view the detail budget  [Click Here](https://github.com/MahithaAvula25/Projec
 <img src="images/budget.png" alt="drawing" width="900" style="border-radius:0%" /> 
 
 Total Budget Required For This Project = $30,000
+
+
+### Gantt Chart
+A Gantt chart is a visual project management tool that illustrates the timeline of tasks and their dependencies. It provides a horizontal bar chart representation of project tasks, showing their start and end dates, durations, and overlaps. Gantt charts help project managers and team members visualize the project schedule, identify critical tasks, manage dependencies, allocate resources, and track progress. They enable efficient planning, scheduling, and monitoring of projects.
+
+<img src="WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
+
+To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Budget)
