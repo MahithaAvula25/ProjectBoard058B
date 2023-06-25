@@ -55,6 +55,7 @@ For detailed Information: [click here](https://github.com/MahithaAvula25/Project
 <br>
 
 ### Budget
+
 * Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
 * It helps the stakeholders to know how much money is needed and when it is needed to complete the project.
 
@@ -67,6 +68,7 @@ Total Budget Required For This Project = $30,000
 <br>
 
 ### Gantt Chart
+
 A Gantt chart is a visual project management tool that illustrates the timeline of tasks and their dependencies. It provides a horizontal bar chart representation of project tasks, showing their start and end dates, durations, and overlaps. Gantt charts help project managers and team members visualize the project schedule, identify critical tasks, manage dependencies, allocate resources, and track progress. They enable efficient planning, scheduling, and monitoring of projects.
 
 <img src=" WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
