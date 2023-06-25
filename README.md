@@ -1,7 +1,6 @@
 
 # Farm Shop
 
-
 ## Our Project
    <strong>Project Title   :   </strong> Farm Shop<br>
    <strong>Project Tagline :   </strong>Shop From Anywhere<br>
@@ -31,9 +30,6 @@
 
   [Mahitha Avula](https://github.com/MahithaAvula25) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SriVyshnaviKshatriya](https://github.com/SriVyshnaviKshatriya)             &nbsp;&nbsp;&nbsp;&nbsp;     
 
-
-
-
  
 ## Participants
 |     Team Member          | Role              | 
@@ -42,6 +38,7 @@
 | Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
 <br>
+
 
 ### Project Charter
 
