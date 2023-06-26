@@ -1,4 +1,4 @@
-## Summary
+# Summary
 
 <li>The project <span style="font-weight:bold"> Farm Shop </span> is an online website application that they would sell the seeds, chemicals required for Farmer.</li>
 <li>The customer would be able to login by creating the account and can view menu list and buy the required items by adding to the cart. </li>

@@ -6,19 +6,19 @@
    <strong>Logo            : <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="images/logo.PNG" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
 
- # Introduction: 
+ ## Introduction: 
  The Farm Shop project aims to create a thriving and sustainable retail establishment that connects local farmers and consumers in a meaningful way. Our goal is to promote local agriculture, support farmers, and offer consumers access to fresh, high-quality, locally sourced products. Through this project, we strive to create a vibrant marketplace where farmers can showcase their produce, dairy products, meat, and other farm-fresh goods, chemicals, while consumers can enjoy a unique shopping experience that celebrates the rich agricultural heritage of our region. Farm Shop that not only provides access to wholesome, locally sourced products but also fosters a sense of connection, community, and conscious consumption.
 A list of acronyms or terms that may be helpful: 
 CRM (Customer Relationship Management), eco-friendly, inventory management, timeframe, agricultural sector, market trends, pricing strategy.
 
 
 
-# Project Scenario: 
+## Project Scenario: 
  The project's context revolves around addressing the challenges faced by farmers in reaching consumers directly and receiving fair prices for their produce. The Farm Shop aims to bridge this gap by creating a retail space that eliminates intermediaries, showcases local farm products, and fosters a direct connection between farmers and consumers. Through a variety of locally sourced goods such as produce, dairy products, meat, and baked goods, eco-friendly products,chemicals,the Farm Shop aims to revitalize the local agricultural sector, promote sustainable farming practices, and provide an alternative to conventional supermarkets. By establishing a trusted and preferred destination for consumers seeking fresh, locally sourced products, the Farm Shop project aims to contribute to the local economy, support employment opportunities, and strengthen the community's bond with local farmers.
 
- # Team Name: Farmstead Avengers
+ ## Team Name: Farmstead Avengers
 
-# Project Charter
+## Project Charter
 <b>Project Title:</b> Farmstead Avengers
 
 <b>Project Start Date:</b>  06/09/2023    <b>  Projected Finish Date: </b> 06/30/2023
@@ -37,7 +37,7 @@ To Implement effective inventory management and sales tracking systems to optimi
 
 To Provide exceptional customer service and create a positive shopping experience for customers.
 
-# Success Criteria
+## Success Criteria
 <li>The farm must be operational and fully stocked within the timeframe.</li>
 <li>	Increasing sales and revenue over time.</li>
 <li>	High customer satisfaction based on feedback and surveys.</li>
@@ -50,12 +50,12 @@ To Provide exceptional customer service and create a positive shopping experienc
 <li>The farm shop achieves profitability within timeframe.</li>
 <li>	The project must meet every requirement outlined in the scope</li>
 
-# Approach
+## Approach
 The target is to finish the project on time, under budget, but without escalating any client issues.
 We would employ the Agile methodology for this project. We will hold weekly status meetings with the client to discuss the progress of the project. We will collect client requirements and then take the necessary action. As a team, we will not disappoint anyone or anything with this project. Each member of the team is supportive of the others. As a result of the presence of other team members, our individual weaknesses donot stand out. We will attend daily Zoom meetings to discuss the state of the project and assist one another if someone falls behind. We will communicate via Northwest Email and Teams in order to hold rapid online meetings.
 
-# Roles And responsibilties
-# Team Members
+## Roles And responsibilties
+## Team Members
 
 | Name                | Signature | Role              | Position      | Contact Information  |
 |---------------------|-----------|-------------------|---------------|----------------------|
@@ -64,8 +64,8 @@ We would employ the Agile methodology for this project. We will hold weekly stat
 
 
 
-# Stakeholder Register for Farm Shop
-# Team Members
+## Stakeholder Register for Farm Shop
+## Team Members
 
 | Name                | Position       | Internal/External | Project Role       | Contact Information  | Description |
 |---------------------|----------------|-------------------|--------------------|----------------------|-------------|
@@ -75,7 +75,7 @@ We would employ the Agile methodology for this project. We will hold weekly stat
 
 
 
-# Statement of Need:
+## Statement of Need:
 The local community currently lacks a dedicated retail space that offers a wide selection of locally sourced produce. Many consumers are increasingly seeking fresh and sustainable food options, and local farmers often struggle to reach a wider customer base. By establishing the farm shop, we aim to address these needs and provide a solution for both consumers and local farmers.
 
 The project is necessary because:
@@ -92,7 +92,7 @@ Local farmers face challenges in finding markets for their products, limiting th
 By addressing these needs, the farm shop project will contribute to the overall well-being of the community, strengthen the local economy, and promote sustainable agricultural practices.
 
 
-# Project Approach:
+## Project Approach:
 The Farm Shop project will follow a systematic and well-defined approach to ensure the successful implementation.
 
 <b>Research and Analysis:</b>
