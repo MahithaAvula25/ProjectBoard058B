@@ -37,14 +37,14 @@ Link to Farm Shop Project Repo:  https://github.com/MahithaAvula25/ProjectBoard0
 <br>
 
 ## Submission instructions
-**1.Paste a clickable link to your group board:**
-
-Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B<br>
+**1.Paste a clickable link to your group board:**<br>
+Link to Farm Shop Project Board:  https://github.com/users/MahithaAvula25/projects/6    <br>
+Link to Farm Shop Project Repo:  https://github.com/MahithaAvula25/ProjectBoard058B<br>
              Mahitha Avula Github Repo: https://github.com/MahithaAvula25 <br>
  Sri Vyshnavi Kshatriya Repo: https://github.com/SriVyshnaviKshatriya <br>
 
 **2.Paste a clickable link to your group repository (or attach your Word doc):**<br>
-Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B
+Link to Farm Shop Project Repo:  https://github.com/MahithaAvula25/ProjectBoard058B
 
 **3.About how many hours did the group spend on this assignment:**
 
