@@ -32,19 +32,14 @@
 | Sri Vyshnavi Kshatriya   | Full stack developer    | 
 
 
-
 ## Project Charter
-
 
 This is the project charter for the Farm shop project. The objective of this undertaking is to develop and deliver a web-based application for Farm shop.
 It includes the  information about success criteria,Approach,Team members etc
 <br>
 For detailed Information: [click here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/project%20charter.md)
 
-
-
 ## Budget
-
 * Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
 * It helps the stakeholders to know how much money is needed and when it is needed to complete the project.
 
@@ -63,16 +58,16 @@ A Gantt chart is a visual project management tool that illustrates the timeline 
 <img src=" WBS/Ganttchart.png" alt="drawing" width="900" style="border-radius:0%" /> 
 
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
-<br>
 
-## Work Breakdown Structure (WBS)
+
+## WorkBreakdownStructure(WBS)
 
  A Work Breakdown Structure is a hierarchical decomposition of a project into smaller, more manageable work components. Each level of the WBS represents increasingly detailed components, from high-level phases to individual work packages. It provides a foundation for project planning, estimation, resource allocation, and project control.
 
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
 
 
-**To view the additional details related to our project.Please do refer the following Links**
+## To view the additional details related to our project.Please do refer the following Links
 
 IssueLog : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Issuelog)<br>
 RiskRegister : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Risk) <br>
