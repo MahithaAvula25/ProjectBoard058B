@@ -67,7 +67,7 @@ To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
 
 
-## To view the additional details related to our project.Please do refer the following Links
+## To View The Additional Details Related To Our Project.Please Do Refer The Following Links
 
 IssueLog : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Issuelog)<br>
 RiskRegister : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Risk) <br>
@@ -82,3 +82,16 @@ Stakeholder Register : [Click Here](https://github.com/MahithaAvula25/ProjectBoa
 <li>Customer can select the way of payment they are comfortable like we will be providing options like Credit/Debit card, Home Delivery and Pick up options.</li>
 <li>Once the user confirm the payment he/she will be provided the tracking status for the item that they have purchased.</li>
 
+## References
+
+1.Project Charter
+<li>https://www.projectmanager.com/templates/project-charter-template</li>
+<li>https://clickup.com/blog/project-charter-template/ </li><br>
+2. WorkBreakDown Structure
+<li>https://www.projectmanager.com/guides/work-breakdown-structure </li>
+<li>https://www.smartsheet.com/free-work-breakdown-structure-templates</li>
+<br>
+3. RiskRegister
+
+<li>https://www.smartsheet.com/risk-register-templates</li>
+<li>https://www.projectmanager.com/templates/risk-tracking-template</li>
