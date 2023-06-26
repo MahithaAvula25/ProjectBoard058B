@@ -27,7 +27,7 @@ GitHub Projects allow us  to prioritize stories by using labels or assigning due
 The Kanban board provides a visual representation of the  project's workflow. We have learnt  the significance of having a clear visualization of the different stages of work (To Do ,In progress, Done), By regularly updating the status of cards and moving them through the workflow columns, we gain insight into the project's progress. This will helps us to  understand the progress of each story and identify any blockers or bottlenecks that need attention immediately.<br>
 
 **Your document must include the following**<br>
-1.Clickable links<br>
+1. Clickable links<br>
 Mahitha Avula Github Repo: https://github.com/MahithaAvula25 <br>
 Sri Vyshnavi Kshatriya Repo: https://github.com/SriVyshnaviKshatriya <br>
 Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B
@@ -43,21 +43,23 @@ Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard
 **2.Paste a clickable link to your group repository (or attach your Word doc):**<br>
 Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B
 
-**3.About how many hours did the group spend on this assignment: **
+**3.About how many hours did the group spend on this assignment:**
 
-S. No	Name	Contribution	Hours spent
-1	Mahitha Avula	Project Manager	10
-2	Sri Vyshnavi Kshatriya	Front end developer	10
+| S. No | Name              | Contribution        | Hours spent |
+|-------|-------------------|---------------------|-------------|
+| 1     | Mahitha Avula     | Project Manager     | 10          |
+| 2     | Sri Vyshnavi Kshatriya | Front end developer | 10          |
 
-**4.In general, how did it go:** <br>
+
+**4. In general, how did it go:** <br>
 Creating a Kanban board in GitHub will be challenging. As Kanban is an agile methodology n which we can perform the task parallely.It been  an effective framework for organizing and managing project tasks, fostering collaboration, and enhancing project visibility. However, we had a careful planning and had a group meetings via the Microsoft teams in order to discuss the status of our project. We had divided our work into smaller, actionable tasks and visualize the workflow from start to finish and we ensured that deadlines and milestones are met. 
 
-**5.What was the most difficult part:** <br> 
+**5. What was the most difficult part:** <br> 
 Familiarizing ourself with the concepts of how we  apply to our project  made us to consume a lot of  time and efforts in understanding it .Its been a tedious task for both of our team members to accomplish this assignment. In order to achieve this we require a thoughtful planning and consideration of the specific requirements of what to do and goals of our project.<br>
-**6.What was most interesting:** <br>
+**6. What was most interesting:** <br>
 We find it more interesting to do Research and analyze the tasks related to kanban and improvise the things into our project. Kanban boards offer a visual representation of the workflow, allowing us to see the progress and status of tasks at a glance. This visual aspect makes it engaging and exciting to track the movement of tasks across different stages, witnessing the project's evolution in real-time. This collaborative environment helped us to have  better communication, coordination, and a sense of shared ownership among the team members. It enhances teamwork and encourages collective problem-solving, which can be intellectually stimulating and productive for the project.
 
-**7.	What are the best parts of your group's submission (what are you most proud of):**<br>
+**7. What are the best parts of your group's submission (what are you most proud of):**<br>
 
  The best part of our group submission could be the clear idea of our project workflow. Our group had an effective task management and collaboration among ourselves.  Efficient task tracking and completion were key achievements, as we consistently updated task statuses and moved the cards across columns, ensuring progress aligned with our project milestones. We are proud that the complete project has been handled by only two team members, which is difficult task and a big achievement for us.
 
