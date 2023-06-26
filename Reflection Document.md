@@ -8,7 +8,9 @@
  Include the names of each group member with clickable links to their GitHub username for each member of your group. Include a clickable link to your project board. <br>
 Mahitha Avula Github Repo: https://github.com/MahithaAvula25 <br>
 Sri Vyshnavi Kshatriya Repo: https://github.com/SriVyshnaviKshatriya <br>
-Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B
+
+Link to Farm Shop Project Board:  https://github.com/users/MahithaAvula25/projects/6    <br>
+Link to Farm Shop Project repo:  https://github.com/MahithaAvula25/ProjectBoard058B
 
 ## Explain how GitHub Projects and Kanban can help your group in future projects like your MS- ACS Directed Graduate Project or other group projects.
  With the knowledge gained in creating kanban in GitHub which will helps us in creating Jira board for our future projects . We have learnt to divide the work into smaller task and we created a stories based on that . It becomes easier to update the status of individual tasks, track the completion, and measure the overall project progress. This transparency allows for better project visibility We have learnt the significance of having a clear visualization of the different stages of work (To Do ,In progress, Done), By regularly updating the status of cards and moving them through the workflow columns, we gain insight into the project's progress.<br>
@@ -30,7 +32,8 @@ The Kanban board provides a visual representation of the  project's workflow. We
 1. Clickable links<br>
 Mahitha Avula Github Repo: https://github.com/MahithaAvula25 <br>
 Sri Vyshnavi Kshatriya Repo: https://github.com/SriVyshnaviKshatriya <br>
-Link to Farm Shop Project Board:  https://github.com/MahithaAvula25/ProjectBoard058B
+Link to Farm Shop Project Board:  https://github.com/users/MahithaAvula25/projects/6    <br>
+Link to Farm Shop Project Repo:  https://github.com/MahithaAvula25/ProjectBoard058B
 <br>
 
 ## Submission instructions
