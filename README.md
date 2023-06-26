@@ -72,8 +72,13 @@ To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25
 To view the detail Gantt details  [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/WBS)
 
 
+**To view the additional details related to our project.Please do refer the following Links**
 
-
+IssueLog : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Issuelog)<br>
+RiskRegister : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/tree/main/Risk) <br>
+RiskStrategies : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/Risk/Riskstrategies.md) <br>
+Stakeholder Management Strategy : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/Stakeholder/stakeholdermgt.md)<br>
+Stakeholder Register : [Click Here](https://github.com/MahithaAvula25/ProjectBoard058B/blob/main/Stakeholder/stakeholderregister.md)<br>
 ## Summary
 <li>The project <span style="font-weight:bold"> Farm Shop </span> is an online website application that they would sell the seeds, chemicals required for Farmer.</li>
 <li>The customer would be able to login by creating the account and can view menu list and buy the required items by adding to the cart. </li>
